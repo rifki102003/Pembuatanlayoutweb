@@ -4,4 +4,4 @@
 
 ### HASIL
 HASIL DARI PEMOGRAMAN PEMBUATAN LAYOUT HTML.<p>
-![gambar](Screenshot/ss.PNG
+![gambar](Screenshot/ss.PNG)
